@@ -30,6 +30,8 @@ Candidates can use whatever method they wish to develop their machine learning m
 ## Here we can see the capped data. there is no outliers.
 ## Multicolinearity
 
+Multicollinearity refers to the correlation or high interdependence between predictor variables in a regression or machine learning model.
+
 We can see that oldbalanceOrg and newbalanceOrig have too high VIF thus they are highly correlated. Similarly oldbalanceDest and newbalanceDest, also nameDest is connected to nameOrig.
 
 Thus combine these pairs of colinear attributes and drop the individual ones.
