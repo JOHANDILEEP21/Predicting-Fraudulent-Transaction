@@ -92,8 +92,6 @@ Random forest makes multiple decision trees which makes it easier (although time
 
 ---
 
-
-
 **Model Overview:** The fraud detection model is built using the Random Forest algorithm, which is an ensemble learning method that combines multiple decision trees to make predictions. Random Forest is known for its ability to handle high-dimensional datasets and provide robust performance in various classification tasks, including fraud detection.
 
 **Data Preparation:** The model requires a dataset that consists of labeled examples where each example represents a transaction or an event, and the label indicates whether it is fraudulent or not. The dataset is preprocessed to handle missing values, outliers, and data inconsistencies.
