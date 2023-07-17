@@ -63,14 +63,10 @@ The following linear algorithms will be used, namely:
 
 **Classification and Regression Trees (CART)**
 
-**k-Nearest Neighbors (KNN).**
 
 **Random Forest**
 
 ## Here, we have build the Random Forest Classifier model with default parameter of n_estimators = 10
-
-## KNN
-## Build the model with k=6
 
 ## CONCLUSION
 
